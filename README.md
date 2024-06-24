@@ -3,7 +3,7 @@
 ## 🚀 Project Overview
 I'm excited to share my latest project with you all – a **JavaScript Calculator** that I built using HTML, CSS, and JavaScript! This project was both challenging and rewarding, and I wanted to highlight some of the key concepts and technologies I used.
 
-##Snapshots
+## Snapshots
 ![Screenshot 2024-06-24 120929](https://github.com/anshupriya380/calculator/assets/145607444/ab9f77bc-2956-459c-a160-a8c99de1fa78)
 
 
